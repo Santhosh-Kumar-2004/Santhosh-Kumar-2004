@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hello, I'm Santhosh Kumar
+# I'm Santhosh Kumar
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

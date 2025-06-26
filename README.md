@@ -51,10 +51,14 @@
 <!--![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true) -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical&row=1&no-bg=true&no-frame=true)
 
-## 📌 Pinned Projects
-- [FocusMate](https://github.com/Santhosh-Kumar-2004/FocusMate) – A task productivity app built with React + FastAPI + MySQL.
-- [DevConnect](https://github.com/Santhosh-Kumar-2004/DevConnect) – A full-stack social media app.
-... (2–4 more pinned)
+## 📌 Top 3 Projects
+
+<div align="center">
+[![FocusMate](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=FocusMate&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/FocusMate)
+[![DevConnect](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=DevConnect&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/DevConnect)
+[![<Your-Repo-3>](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=<Your-Repo-3>&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/<Your-Repo-3>)
+</div>
+
 
 ![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
 <!--

@@ -46,8 +46,8 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-orange?style=flat&logo=scikit-learn&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white)
 
-## 🔥 My GitHub Stats
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical)
+## 🔥 GitHub Stats
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical)

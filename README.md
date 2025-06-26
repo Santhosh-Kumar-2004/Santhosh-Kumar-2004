@@ -50,14 +50,13 @@
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical&row=1&no-bg=true&no-frame=true)
-![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
 
 ## 📌 Pinned Projects
 - [FocusMate](https://github.com/Santhosh-Kumar-2004/FocusMate) – A task productivity app built with React + FastAPI + MySQL.
 - [DevConnect](https://github.com/Santhosh-Kumar-2004/DevConnect) – A full-stack social media app.
 ... (2–4 more pinned)
 
-
+![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
 <!--
 **Santhosh-Kumar-2004/Santhosh-Kumar-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

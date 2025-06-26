@@ -12,7 +12,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@santhoshkumarv12136)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SanthoshOp/)
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/santhoshkumarv12136?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/santhoshkumarv12136](https://www.linkedin.com/in/santhoshkumarv12136/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumarv12136/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhosh_kumar_.v?igsh=anNha2MzcHlraGM0)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarv12136@gmail.com)
 

@@ -47,8 +47,7 @@
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white)
 
 ## 🔥 GitHub Stats
-[![Santhosh's GitHub Streak](https://streak-stats.demolab.com?user=Santhosh-Kumar-2004&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Kumar-2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical&row=1&no-bg=true&no-frame=true)
 

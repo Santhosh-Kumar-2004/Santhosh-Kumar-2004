@@ -53,10 +53,13 @@
 
 ## 📌 Top 3 Projects
 
-[![User Management](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=UserManagement&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/fullstack-user-management-Project)
-[![FocusMate](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=FocusMate&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/focusmate-full-stack-project)
-[![DevConnect](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=DevConnect&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/DevConnect-Social-Media-App-for-Developers)
+<div align="center">
 
+[![User Management](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=fullstack-user-management-Project&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/fullstack-user-management-Project)
+[![FocusMate](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=focusmate-full-stack-project&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/focusmate-full-stack-project)
+[![DevConnect](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=DevConnect-Social-Media-App-for-Developers&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/DevConnect-Social-Media-App-for-Developers)
+
+</div>
 
 ![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
 <!--

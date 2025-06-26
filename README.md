@@ -6,13 +6,46 @@
 - 🎯 Learning Generative AI, Data Science, and DSA
 - 🌱 Currently building full-stack projects
 - 📫 How to reach me: [email or social links]
+- 
+## 🌐 Connect with Me
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-Kumar-2004)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@santhoshkumarv12136)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SanthoshOp/)
+[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/santhoshkumarv12136?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/santhoshkumarv12136/])
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/santhosh_kumar_.v?igsh=anNha2MzcHlraGM0))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarv12136@gmail.com)
+
+## 🛠️ My Tech Stack
+
+### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-... (more logos)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+### 🧠 Data Tools / IDEs
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder&logoColor=white&style=flat)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat)
+
+### ⚙️ Web, Backend & Database Tech
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat)
+
+### 🧠 Interests
+![Data Analytics](https://img.shields.io/badge/-Data_Analytics-blue?style=flat&logo=google-analytics&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data_Science-black?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-orange?style=flat&logo=scikit-learn&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white)
 
 ## 🔥 My GitHub Stats
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical)
@@ -24,11 +57,6 @@
 - [FocusMate](https://github.com/Santhosh-Kumar-2004/FocusMate) – A task productivity app built with React + FastAPI + MySQL.
 - [DevConnect](https://github.com/Santhosh-Kumar-2004/DevConnect) – A full-stack social media app.
 ... (2–4 more pinned)
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](your-twitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=dev.to&logoColor=white&style=flat)](your-portfolio-link)
 
 
 <!--

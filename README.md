@@ -7,7 +7,6 @@
 - 🌱 Currently building full-stack and frontend only projects
 - ❤️ Very much interested in Learning Generative AI, Data Science, and Machine Learning
 
-
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-Kumar-2004)

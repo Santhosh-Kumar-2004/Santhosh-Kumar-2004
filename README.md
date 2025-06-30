@@ -3,8 +3,9 @@
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
-- 🎯 Learning DSA, Generative AI, Data Science, and ML
+- 🎯 Learning DSA
 - 🌱 Currently building full-stack and frontend only projects
+- ❤️
 
 ## 🌐 Connect with Me
 

@@ -5,7 +5,7 @@
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
 - 🎯 Learning DSA
 - 🌱 Currently building full-stack and frontend only projects
-- ❤️
+- ❤️ Very much interested in Learning 
 
 ## 🌐 Connect with Me
 

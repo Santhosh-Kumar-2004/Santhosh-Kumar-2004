@@ -6,7 +6,7 @@
 - 🎯 Learning DSA
 - 🌱 Currently building full-stack and frontend only projects
 - ❤️ Very much interested in Learning Generative AI, Data Science, and Machine Learning
-- 
+
 
 ## 🌐 Connect with Me
 

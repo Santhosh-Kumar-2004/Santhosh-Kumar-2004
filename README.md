@@ -1,6 +1,8 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
+Currently having the 6th Semester examinations
+
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
 - 🎯 Learning DSA

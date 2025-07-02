@@ -3,6 +3,7 @@
 
 Currently having the 6th Semester examinations
 Studying for the Computer Network Exam which iI have day after tomorrow(04/07/2025)
+Today(02/07/2025) I had Electronice examination.
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

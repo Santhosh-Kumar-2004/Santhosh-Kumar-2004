@@ -1,8 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Todays exam gone very much great. And im wondered about my own braines power.
-Today, Me and my friend discussed and We moved an THought of an businees to IDEA. We actually seeded the Vision.
+Todays Started an Restaurant App
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

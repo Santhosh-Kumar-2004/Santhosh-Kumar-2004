@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Todays Started an Restaurant App
+Being in an Businees mindset and curious to build an app which solves an real world problem
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

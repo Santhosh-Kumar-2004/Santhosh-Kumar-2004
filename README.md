@@ -1,7 +1,9 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Being in an Businees mindset and curious to build an app which solves an real world problem
+Material UI conceot is good and in built responsievness it seems, So Imma going to learn that
+
+
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

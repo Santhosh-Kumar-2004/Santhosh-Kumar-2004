@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Material UI conceot is good and in built responsievness it seems, So Imma going to learn that
+Today I have gone through an conversation between my friends friends. 
 
 
 

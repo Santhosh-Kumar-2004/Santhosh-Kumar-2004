@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Today I have gone through an conversation between my friends friends. 
+Tomorrow(16/07/2025)I have Electronics paper 7 Exam.
 
 
 

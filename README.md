@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Tomorrow(16/07/2025)I have Electronics paper 7 Exam.
+Today the day was gone really great, I did what actaully i love
 
 
 

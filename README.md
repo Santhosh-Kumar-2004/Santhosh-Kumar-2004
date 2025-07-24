@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-I can not able to maintain my streak.
+Tomorrow i have computer network practical examination.
 
 
 

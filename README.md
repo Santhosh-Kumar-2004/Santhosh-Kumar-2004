@@ -1,9 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Tomorrow i have computer network practical examination.
-
-
+Today i had my last exam of my degree career. And we friends all gone to trip to manchinbelle.
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Today i had my last exam of my degree career. And we friends all gone to trip to manchinbelle.
+Today i actually gone to Shivgangai with friends. And I got fever at the end
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Today i actually gone to Shivgangai with friends. And I got fever at the end
+Starting the MVP works
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

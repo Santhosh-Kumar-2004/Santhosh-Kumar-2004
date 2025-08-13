@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Starting the MVP works
+Ice cream landing page completed
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

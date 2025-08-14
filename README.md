@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Started SBI exam prep
+Sentiment analysis project
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

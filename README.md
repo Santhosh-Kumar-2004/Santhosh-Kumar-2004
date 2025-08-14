@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Ice cream landing page completed
+Started SBI exam prep
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

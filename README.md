@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Sentiment analysis project
+Two interviews tomorrow
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

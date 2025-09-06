@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Two interviews tomorrow
+No comments
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

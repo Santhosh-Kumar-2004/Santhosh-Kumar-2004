@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Learned how to do whatsapp automation using n8n.
+Learned how to do whatsapp automation using n8n. Which is an Open source automation platform
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

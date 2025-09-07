@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-No comments
+Learned how to do whatsapp automation using n8n.
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
-Completed the Starbucks Site project
+Completed the Starbucks Site project, IM about to watch PK movie now
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

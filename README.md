@@ -5,9 +5,9 @@ Completed the Starbucks Site project, IM about to watch PK movie now
 
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
-- 🎯 Learning DSA
-- 🌱 Currently building full-stack and frontend only projects
-- ❤️ Very much interested in Learning Generative AI, Data Science, and Machine Learning
+- 🎯 Learning DSA and Agentic AI and Automations
+- 🌱 Built full-stack and frontend only projects
+- ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
 
 ## 🌐 Connect with Me
 

@@ -6,6 +6,7 @@
 - 🎯 Learning DSA and Agentic AI and Automations
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
+- Currently learning basic code writing in python
 
 ## 🌐 Connect with Me
 

@@ -7,6 +7,7 @@
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
 - Currently learning basic code writing in python and also the ML and DS concepts theoretically
+- 
 
 ## 🌐 Connect with Me
 
@@ -65,7 +66,7 @@
 
 ![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
 <!--
-**Santhosh-Kumar-2004/Santhosh-Kumar-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Santhosh-Kumar-2004/Santhosh-Kumar-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Keep the name of the Repo as same as the Profile name
 
 Here are some ideas to get you started:
 

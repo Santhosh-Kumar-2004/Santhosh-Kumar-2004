@@ -7,7 +7,7 @@
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
 - Currently Focusing on Social media marketing and content uploading stuffs
-- First day of joining 
+- First day of joining at 247 company
 
 ## 🌐 Connect with Me
 

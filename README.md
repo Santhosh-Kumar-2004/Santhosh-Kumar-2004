@@ -7,7 +7,7 @@
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
 - Currently Focusing on Social media marketing and content uploading stuffs
-- going to Chennai 
+- going to Chennai and spent a whole day
   
 
 ## 🌐 Connect with Me

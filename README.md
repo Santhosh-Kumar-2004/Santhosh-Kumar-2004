@@ -7,7 +7,7 @@
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
 - Currently Focusing on Social media marketing and content uploading stuffs
-- Choosing an project named E-commerce 
+- Choosing an project named E-commerce then user 6
 
 ## 🌐 Connect with Me
 

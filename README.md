@@ -8,7 +8,7 @@
 - ❤️ Much interested in Learning Generative AI, Data Science, Machine Learning and BCI - EEG - EMG etc.,
 - Currently Focusing on Social media marketing and content uploading stuffs
 - The project Neura link - studying the stuff on electroencephalography
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
 
 ## 🌐 Connect with Me
 

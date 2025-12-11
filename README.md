@@ -5,7 +5,7 @@
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
 - 🎯 Learning DSA and Agentic AI and Automations
 - 🌱 Built full-stack and frontend only projects
-- ❤️ Much interested in Learning Generative AI, Data Science, and Machine Learning
+- ❤️ Much interested in Learning Generative AI, Data Science, Machine Learning and BCI - EEG - EMG etc.,
 - Currently Focusing on Social media marketing and content uploading stuffs
 - The project Neura link - studying the stuff on electroencephalography
 

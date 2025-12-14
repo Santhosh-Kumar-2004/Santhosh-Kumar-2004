@@ -7,7 +7,7 @@
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, Machine Learning and BCI - EEG - EMG etc.,
 - Currently Focusing on Social media marketing and content uploading stuffs
-- The project Neura link - studying the stuff on electroencephalography eeg
+- The project Neura link - studying the stuff on electroencephalography eeg...
 ![My Awesome Streak](https://awesome-github-stats.azurewebsites.net/user-stats/Santhosh-Kumar-2004/streak?theme=radical)
 
 ## 🌐 Connect with Me

@@ -3,7 +3,7 @@
 
 ![Snake animation](https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-Kumar-2004&label=Profile%20Views&color=brightgreen&style=flat)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh+👋;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh Kumar+👋;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+🚀)
 
 
 ## 🚀 About Me
@@ -11,7 +11,6 @@
 - 🎯 Learning DSA and Agentic AI and Automations
 - 🌱 Built full-stack and frontend only projects
 - ❤️ Much interested in Learning Generative AI, Data Science, Machine Learning and BCI - EEG - EMG etc.,
-- Currently Focusing on Social media marketing and content uploading stuffs
 - The project Neura link - studying the stuff on electroencephalography emg
 ![My Awesome Streak](https://awesome-github-stats.azurewebsites.net/user-stats/Santhosh-Kumar-2004/streak?theme=radical)
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true)

@@ -52,7 +52,7 @@
 
 ## 🔥 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
-<!--![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical&row=1&no-bg=true&no-frame=true)
 
 ## 📌 Top 3 Projects

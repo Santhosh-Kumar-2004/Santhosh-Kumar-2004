@@ -22,7 +22,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarv12136@gmail.com)
 
 ## 🛠️ My Tech Stack
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Kumar-2004&layout=compact&theme=radical&hide_border=true)
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)

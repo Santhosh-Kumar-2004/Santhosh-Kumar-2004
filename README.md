@@ -1,6 +1,8 @@
 ## Hi there 👋
 # I'm Santhosh Kumar
 
+![Snake animation](https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 About Me
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
 - 🎯 Learning DSA and Agentic AI and Automations

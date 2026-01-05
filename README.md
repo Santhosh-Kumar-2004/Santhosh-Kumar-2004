@@ -9,6 +9,7 @@
 - Currently Focusing on Social media marketing and content uploading stuffs
 - The project Neura link - studying the stuff on electroencephalography emg
 ![My Awesome Streak](https://awesome-github-stats.azurewebsites.net/user-stats/Santhosh-Kumar-2004/streak?theme=radical)
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true)
 
 ## 🌐 Connect with Me
 

@@ -3,10 +3,9 @@
 
 ![Snake animation](https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-Kumar-2004&label=Profile%20Views&color=brightgreen&style=flat)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh+Kumar+👋;Full+Stack+Developer;Always+Learning+🚀;Project+Focused;Tech+Lover)
-
 
 ## 🚀 About Me
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh+Kumar+👋;Full+Stack+Developer;Always+Learning+🚀;Project+Focused;Tech+Lover)
 - 💻 Full-stack Developer (React + FastAPI + MySQL)
 - 🎯 Learning DSA and Agentic AI and Automations
 - 🌱 Built full-stack and frontend only projects

@@ -66,6 +66,8 @@
 </div>
 
 ![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
+![Santhosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
+
 <!--
 **Santhosh-Kumar-2004/Santhosh-Kumar-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Keep the name of the Repo as same as the Profile name
 

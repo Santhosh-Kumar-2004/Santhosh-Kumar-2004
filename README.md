@@ -3,6 +3,8 @@
 
 ![Snake animation](https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-Kumar-2004&label=Profile%20Views&color=brightgreen&style=flat)
+![GitHub Repo Size](https://github.com/sindresorhus/github-repo-size/utils/github-repo-size?username=Santhosh-Kumar-2004)
+
 
 
 ## 🚀 About Me

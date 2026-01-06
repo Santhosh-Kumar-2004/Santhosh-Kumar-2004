@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh+Kumar+👋;Full+Stack+Developer;Always+Learning+🚀;Project+Focused;Tech+Lover)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh+Kumar+👋;Full+Stack+Developer;Always+Learning+🚀;Project+Focused;Tech+Lover;Entrepreneural+Mindset)
 
 
 - 💻 Full-stack Developer (React + FastAPI + MySQL)

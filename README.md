@@ -21,7 +21,6 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-Kumar-2004)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@santhoshkumarv12136)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SanthoshOp/)
 [![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/santhoshkumarv12136?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumarv12136/)

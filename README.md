@@ -36,38 +36,39 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class SanthoshKumar:
-    def __init__(self):
-        self.name        = "Santhosh Kumar"
-        self.role        = "Full Stack Developer"
-        self.location    = "India 🇮🇳"
+<table>
+<tr>
+<td valign="top" width="50%">
 
-        self.languages   = ["Python", "JavaScript", "TypeScript", "SQL", "HTML5", "CSS3", "R"]
+### 👨‍💻 Who Am I?
 
-        self.stack = {
-            "frontend":   ["React", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"],
-            "backend":    ["FastAPI", "Node.js"],
-            "database":   ["MySQL", "PostgreSQL", "MongoDB"],
-            "tools":      ["Git", "GitHub", "Postman", "DBeaver", "VS Code", "Docker"],
-            "data_tools": ["Jupyter", "Spyder", "RStudio", "Pandas", "NumPy"],
-        }
+- 🔭 &nbsp; Building **EZdine** — Full-Stack Restaurant Platform
+- 🌱 &nbsp; Learning **Advanced DSA**, **Agentic AI** & **Automations**
+- 🧠 &nbsp; Researching **EEG / EMG / Brain-Computer Interfaces**
+- ❤️ &nbsp; Passionate about **Generative AI** & **Machine Learning**
+- 🔬 &nbsp; Exploring **NeuraLink-style** neural interface technology
+- 🎯 &nbsp; **Entrepreneurial mindset** — always building, always shipping
+- 📍 &nbsp; Based in **India 🇮🇳**
+- ⚡ &nbsp; Fun fact: I study **electroencephalography** independently!
 
-        self.interests   = [
-            "Generative AI 🤖",     "Agentic AI & Automations ⚙️",
-            "Data Science 📊",       "Machine Learning 🧠",
-            "BCI - EEG - EMG 🔬",   "Neurotech & Neural Interfaces 🧬",
-        ]
+</td>
+<td valign="top" width="50%">
 
-        self.learning    = ["Advanced DSA", "Agentic AI Pipelines", "Workflow Automations"]
-        self.fun_fact    = "Studying electroencephalography & brain–computer interfaces 🧠⚡"
+### 🚀 Quick Stats
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+| | |
+|---|---|
+| 💼 **Role** | Full Stack Developer |
+| 🖥️ **Frontend** | React, TypeScript, Tailwind CSS |
+| ⚙️ **Backend** | FastAPI, Node.js |
+| 🗄️ **Database** | MySQL, PostgreSQL, MongoDB |
+| 🤖 **AI/ML** | Generative AI, Agentic AI |
+| 🔬 **Research** | BCI, EEG, EMG, Neurotech |
+| 📚 **Learning** | DSA, AI Agents, Automations |
 
-me = SanthoshKumar()
-me.say_hi()
-` ` `
+</td>
+</tr>
+</table>
 
 ---
 

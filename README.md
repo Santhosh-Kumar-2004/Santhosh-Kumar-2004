@@ -1,89 +1,243 @@
-## Hi there 👋
-# I'm Santhosh Kumar
-
-![Snake animation](https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-Kumar-2004&label=Profile%20Views&color=brightgreen&style=flat)
-![GitHub Repo Size](https://github.com/sindresorhus/github-repo-size/utils/github-repo-size?username=Santhosh-Kumar-2004)
-
-
-
-## 🚀 About Me
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Santhosh+Kumar+👋;Full+Stack+Developer;Always+Learning+🚀;Project+Focused;Tech+Lover;Entrepreneural+Mindset)
-
-
-- 💻 Full-stack Developer (React + FastAPI + MySQL)
-- 🎯 Learning DSA and Agentic AI and Automations
-- 🌱 Built full-stack and frontend only projects
-- ❤️ Much interested in Learning Generative AI, Data Science, Machine Learning and BCI - EEG - EMG etc.,
-- The project Neura link - studying the stuff on electroencephalography emg
-![My Awesome Streak](https://awesome-github-stats.azurewebsites.net/user-stats/Santhosh-Kumar-2004/streak?theme=radical)
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-Kumar-2004)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SanthoshOp/)
-[![Devpost](https://img.shields.io/badge/-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/santhoshkumarv12136?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumarv12136/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhosh_kumar_.v?igsh=anNha2MzcHlraGM0)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarv12136@gmail.com)
-
-## 🛠️ My Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Kumar-2004&layout=compact&theme=radical&hide_border=true)
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
-### 🧠 Data Tools / IDEs
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder&logoColor=white&style=flat)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white&style=flat)
-
-### ⚙️ Web, Backend & Database Tech
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat)
-
-### 🧠 Interests
-![Data Analytics](https://img.shields.io/badge/-Data_Analytics-blue?style=flat&logo=google-analytics&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data_Science-black?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-orange?style=flat&logo=scikit-learn&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative_AI-8A2BE2?style=flat&logo=openai&logoColor=white)
-
-## 🔥 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Kumar-2004&theme=radical&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical&row=1&no-bg=true&no-frame=true)
-
-## 📌 Top 3 Projects
-
 <div align="center">
 
-[![User Management](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=fullstack-user-management-Project&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/fullstack-user-management-Project)
-[![FocusMate](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=focusmate-full-stack-project&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/focusmate-full-stack-project)
-[![FakeAlertAI](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=FakeAlertAI&theme=radical&show_owner=true)](https://github.com/Santhosh-Kumar-2004/FakeAlertAI)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Santhosh%20Kumar&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
 </div>
 
-![Santhosh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&theme=react-dark&hide_border=true)
+<div align="center">
 
-<!--
-**Santhosh-Kumar-2004/Santhosh-Kumar-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Keep the name of the Repo as same as the Profile name
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Santhosh-Kumar-2004/Santhosh-Kumar-2004/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-Kumar-2004&label=Profile%20Views&color=brightgreen&style=for-the-badge)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Santhosh-Kumar-2004?label=Followers&style=for-the-badge&color=blue&logo=github)&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/Santhosh-Kumar-2004?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi+I'm+Santhosh+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+FastAPI;Mastering+DSA+%26+Agentic+AI+%F0%9F%A4%96;Exploring+Generative+AI+%26+Data+Science+%F0%9F%A7%A0;BCI+%7C+EEG+%7C+EMG+Researcher+%F0%9F%94%AC;Entrepreneurial+Mindset+%7C+Always+Building+%F0%9F%9A%80;Tech+Lover+%7C+Project+Focused+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+class SanthoshKumar:
+    def __init__(self):
+        self.name        = "Santhosh Kumar"
+        self.role        = "Full Stack Developer"
+        self.location    = "India 🇮🇳"
+
+        self.languages   = ["Python", "JavaScript", "TypeScript", "SQL", "HTML5", "CSS3", "R"]
+
+        self.stack = {
+            "frontend":   ["React", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"],
+            "backend":    ["FastAPI", "Node.js"],
+            "database":   ["MySQL", "PostgreSQL", "MongoDB"],
+            "tools":      ["Git", "GitHub", "Postman", "DBeaver", "VS Code", "Docker"],
+            "data_tools": ["Jupyter", "Spyder", "RStudio", "Pandas", "NumPy"],
+        }
+
+        self.interests   = [
+            "Generative AI 🤖",     "Agentic AI & Automations ⚙️",
+            "Data Science 📊",       "Machine Learning 🧠",
+            "BCI - EEG - EMG 🔬",   "Neurotech & Neural Interfaces 🧬",
+        ]
+
+        self.learning    = ["Advanced DSA", "Agentic AI Pipelines", "Workflow Automations"]
+        self.fun_fact    = "Studying electroencephalography & brain–computer interfaces 🧠⚡"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
+
+me = SanthoshKumar()
+me.say_hi()
+` ` `
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-Kumar-2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumarv12136/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SanthoshOp/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/santhoshkumarv12136)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhosh_kumar_.v)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarv12136@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,r&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,tailwind&theme=dark&perline=6" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark&perline=6" />
+</p>
+
+### 🧰 Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,jupyter&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+</p>
+
+### 🤖 AI & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Interests & Research
+
+<div align="center">
+
+| 🤖 AI & Automation | 🔬 Neurotech & BCI | 📊 Data & Analytics |
+|:---:|:---:|:---:|
+| Generative AI | Brain–Computer Interfaces | Data Science |
+| Agentic AI Pipelines | EEG Signal Processing | Machine Learning |
+| LLM Orchestration | EMG Research | Deep Learning |
+| AI Workflow Automations | NeuraLink & Neural Nets | Predictive Analytics |
+
+</div>
+
+---
+
+## 🚧 Currently Working On
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=%F0%9F%94%A8+Building+EZdine+%E2%80%94+Full-Stack+Restaurant+Management+Platform;%F0%9F%A7%A0+Studying+EEG+%26+Brain-Computer+Interface+Systems;%F0%9F%93%9A+Mastering+Advanced+DSA+%26+Algorithms;%F0%9F%A4%96+Exploring+AI+Agents+%26+Automation+Pipelines)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![User Management](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=fullstack-user-management-Project&theme=radical&show_owner=true&border_color=F75C7E)](https://github.com/Santhosh-Kumar-2004/fullstack-user-management-Project)
+[![FocusMate](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=focusmate-full-stack-project&theme=radical&show_owner=true&border_color=F75C7E)](https://github.com/Santhosh-Kumar-2004/focusmate-full-stack-project)
+[![FakeAlertAI](https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-Kumar-2004&repo=FakeAlertAI&theme=radical&show_owner=true&border_color=F75C7E)](https://github.com/Santhosh-Kumar-2004/FakeAlertAI)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Santhosh-Kumar-2004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-Kumar-2004&layout=compact&theme=radical&hide_border=true&langs_count=8" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-Kumar-2004&theme=radical&hide_border=true&stroke=F75C7E&ring=F75C7E&fire=FF6B35)](https://github.com/Santhosh-Kumar-2004)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Santhosh-Kumar-2004?cardType=github&theme=radical)](https://git.io/awesome-stats-card)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Santhosh-Kumar-2004&theme=radical&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-Kumar-2004&bg_color=141321&color=F8D847&line=F75C7E&point=FFFFFF&area=true&area_color=F75C7E&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ If you find my work useful — drop a star, it truly means a lot! ⭐*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
